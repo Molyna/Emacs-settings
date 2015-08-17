@@ -1,0 +1,16 @@
+ls
+cd ..
+ls
+cd ardoq
+(find-file "init.el")
+ls
+ls
+exit
+cd ardoq/ardoq-api/
+ls
+ls
+grep jetty *
+git status
+git status
+git diff src/ardoq/swagger/swagger_v2.clj
+git diff src/ardoq/swagger/swagger_v2.clj
