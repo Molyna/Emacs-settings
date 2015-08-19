@@ -145,3 +145,9 @@
 (global-set-key (kbd "C-x C-;") 'comment-sexp)
 
 
+;; Extra mode bindings
+(add-to-list 'auto-mode-alist '("\\.cu$" . c++-mode))
+
+;;Slime startup
+(if (file-exists-p "~/.emacs.d/dot.emacs")
+    (load "~/.emacs.d/dot.emacs"))

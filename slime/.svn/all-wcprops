@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/22542/ltg/inf4820/15/public/slime
+END
+swank-lispworks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-lispworks.lisp
+END
+swank-ccl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-ccl.lisp
+END
+swank.asd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank.asd
+END
+swank.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank.lisp
+END
+swank-ecl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-ecl.lisp
+END
+swank-cmucl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-cmucl.lisp
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22542/ltg/inf4820/15/public/slime/README.md
+END
+swank-clisp.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-clisp.lisp
+END
+swank-source-file-cache.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-source-file-cache.lisp
+END
+swank-corman.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-corman.lisp
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22542/ltg/inf4820/15/public/slime/CONTRIBUTING.md
+END
+slime.el
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22542/ltg/inf4820/15/public/slime/slime.el
+END
+swank-scl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-scl.lisp
+END
+swank-source-path-parser.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-source-path-parser.lisp
+END
+swank-rpc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-rpc.lisp
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/22542/ltg/inf4820/15/public/slime/NEWS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22542/ltg/inf4820/15/public/slime/Makefile
+END
+metering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22542/ltg/inf4820/15/public/slime/metering.lisp
+END
+swank-match.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-match.lisp
+END
+PROBLEMS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/22542/ltg/inf4820/15/public/slime/PROBLEMS
+END
+start-swank.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/start-swank.lisp
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22542/ltg/inf4820/15/public/slime/.travis.yml
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22542/ltg/inf4820/15/public/slime/ChangeLog
+END
+swank-abcl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-abcl.lisp
+END
+swank-gray.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-gray.lisp
+END
+swank-loader.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-loader.lisp
+END
+.gitref
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/22542/ltg/inf4820/15/public/slime/.gitref
+END
+nregex.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/22542/ltg/inf4820/15/public/slime/nregex.lisp
+END
+sbcl-pprint-patch.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/sbcl-pprint-patch.lisp
+END
+slime-autoloads.el
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22542/ltg/inf4820/15/public/slime/slime-autoloads.el
+END
+slime-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/slime-tests.el
+END
+swank-sbcl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-sbcl.lisp
+END
+xref.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/22542/ltg/inf4820/15/public/slime/xref.lisp
+END
+swank-allegro.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-allegro.lisp
+END
+swank-backend.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/22542/ltg/inf4820/15/public/slime/swank-backend.lisp
+END

@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib
+END
+swank-arglists.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-arglists.lisp
+END
+slime-parse.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-parse.el
+END
+swank-sprof.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-sprof.lisp
+END
+swank-jolt.k
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-jolt.k
+END
+slime-media.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-media.el
+END
+swank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank.rb
+END
+swank-goo.goo
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-goo.goo
+END
+swank-package-fu.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-package-fu.lisp
+END
+slime-fontifying-fu.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-fontifying-fu.el
+END
+slime-xref-browser.el
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-xref-browser.el
+END
+swank-mit-scheme.scm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-mit-scheme.scm
+END
+slime-scratch.el
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-scratch.el
+END
+swank-hyperdoc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-hyperdoc.lisp
+END
+swank-asdf.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-asdf.lisp
+END
+swank-util.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-util.lisp
+END
+slime-clipboard.el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-clipboard.el
+END
+slime-c-p-c.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-c-p-c.el
+END
+slime-package-fu.el
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-package-fu.el
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/Makefile
+END
+swank-fuzzy.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-fuzzy.lisp
+END
+slime-cl-indent.el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-cl-indent.el
+END
+slime-asdf.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-asdf.el
+END
+inferior-slime.el
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/inferior-slime.el
+END
+slime-highlight-edits.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-highlight-edits.el
+END
+slime-hyperdoc.el
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-hyperdoc.el
+END
+swank-kawa.scm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-kawa.scm
+END
+slime-mrepl.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-mrepl.el
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/ChangeLog
+END
+swank-repl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-repl.lisp
+END
+swank-indentation.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-indentation.lisp
+END
+slime-autodoc.el
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-autodoc.el
+END
+swank-media.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-media.lisp
+END
+slime-fancy.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-fancy.el
+END
+slime-typeout-frame.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-typeout-frame.el
+END
+slime-banner.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-banner.el
+END
+slime-mdot-fu.el
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-mdot-fu.el
+END
+slime-indentation.el
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-indentation.el
+END
+swank-trace-dialog.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-trace-dialog.lisp
+END
+swank-presentations.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-presentations.lisp
+END
+swank-clipboard.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-clipboard.lisp
+END
+swank-c-p-c.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-c-p-c.lisp
+END
+swank-snapshot.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-snapshot.lisp
+END
+slime-editing-commands.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-editing-commands.el
+END
+slime-tramp.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-tramp.el
+END
+swank-fancy-inspector.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-fancy-inspector.lisp
+END
+swank-sbcl-exts.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-sbcl-exts.lisp
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/README.md
+END
+swank-r6rs.scm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-r6rs.scm
+END
+swank-larceny.scm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-larceny.scm
+END
+slime-sprof.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-sprof.el
+END
+slime-trace-dialog.el
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-trace-dialog.el
+END
+swank-ikarus.ss
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-ikarus.ss
+END
+slime-presentations.el
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-presentations.el
+END
+slime-snapshot.el
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-snapshot.el
+END
+swank-mrepl.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-mrepl.lisp
+END
+slime-presentations.elc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-presentations.elc
+END
+slime-enclosing-context.el
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-enclosing-context.el
+END
+slime-sbcl-exts.el
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-sbcl-exts.el
+END
+slime-fancy-inspector.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-fancy-inspector.el
+END
+swank-presentation-streams.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-presentation-streams.lisp
+END
+slime-references.el
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-references.el
+END
+swank-motd.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-motd.lisp
+END
+bridge.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/bridge.el
+END
+swank-listener-hooks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/swank-listener-hooks.lisp
+END
+slime-fuzzy.el
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-fuzzy.el
+END
+slime-presentation-streams.el
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-presentation-streams.el
+END
+slime-fancy-trace.el
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-fancy-trace.el
+END
+slime-compiler-notes-tree.el
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-compiler-notes-tree.el
+END
+slime-repl.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-repl.el
+END
+slime-motd.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-motd.el
+END
+slime-scheme.el
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/slime-scheme.el
+END

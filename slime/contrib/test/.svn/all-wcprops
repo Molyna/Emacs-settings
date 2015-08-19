@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test
+END
+slime-cl-indent-test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-cl-indent-test.txt
+END
+slime-parse-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-parse-tests.el
+END
+slime-mdot-fu-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-mdot-fu-tests.el
+END
+slime-presentation-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-presentation-tests.el
+END
+slime-indentation-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-indentation-tests.el
+END
+slime-autodoc-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-autodoc-tests.el
+END
+slime-c-p-c-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-c-p-c-tests.el
+END
+slime-repl-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-repl-tests.el
+END
+slime-enclosing-context-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-enclosing-context-tests.el
+END
+slime-fontifying-fu-tests.el
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/22542/ltg/inf4820/15/public/slime/contrib/test/slime-fontifying-fu-tests.el
+END

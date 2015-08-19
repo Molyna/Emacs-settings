@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc
+END
+slime.css
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime.css
+END
+slime.texi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime.texi
+END
+slime-refcard.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime-refcard.pdf
+END
+slime-small.eps
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime-small.eps
+END
+slime-small.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime-small.pdf
+END
+slime-refcard.tex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/slime-refcard.tex
+END
+texinfo-tabulate.awk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/texinfo-tabulate.awk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/22542/ltg/inf4820/15/public/slime/doc/Makefile
+END
