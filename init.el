@@ -135,8 +135,6 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 
-;; Autocomplete cider
-;(load "ac-cider.el")
 
 ;;Used for block commenting
 (defun comment-sexp ()
@@ -158,6 +156,3 @@
 ;;Slime startup
 (if (file-exists-p "~/.emacs.d/dot.emacs")
     (load "~/.emacs.d/dot.emacs"))
-
-;;Autocomplete
-(add-hook 'after-init-hook 'global-company-mode)
