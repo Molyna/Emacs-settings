@@ -66,7 +66,11 @@
     tagedit
 
     ;; git integration
-    magit))
+    magit
+
+    ;;auto complete
+    company
+    ))
 
 ;; On OS X, an Emacs instance started from the graphical user
 ;; interface will have a different environment than a shell in a
@@ -131,6 +135,9 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 
+;; Autocomplete cider
+;(load "ac-cider.el")
+
 ;;Used for block commenting
 (defun comment-sexp ()
   "Comment out the sexp at point."
@@ -151,3 +158,6 @@
 ;;Slime startup
 (if (file-exists-p "~/.emacs.d/dot.emacs")
     (load "~/.emacs.d/dot.emacs"))
+
+;;Autocomplete
+(add-hook 'after-init-hook 'global-company-mode)
