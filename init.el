@@ -149,5 +149,5 @@
 (add-to-list 'auto-mode-alist '("\\.cu$" . c++-mode))
 
 ;;Slime startup
-(if (file-exists-p "~/.emacs.d/dot.emacs")
+(if (and (file-exists-p "~/.emacs.d/dot.emacs") (file-exists-p "/usr/bin/sbcl"))
     (load "~/.emacs.d/dot.emacs"))
