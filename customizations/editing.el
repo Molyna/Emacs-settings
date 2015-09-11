@@ -70,3 +70,7 @@
     (quit nil)))
 
 (setq electric-indent-mode nil)
+
+;;Autocomplete
+(add-hook 'after-init-hook 'global-company-mode)
+
