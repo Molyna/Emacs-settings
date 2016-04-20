@@ -1,3 +1,6 @@
+;;Support non standard characters
+(require 'iso-transl)
+
 ;;;;
 ;; Packages
 ;;;;
@@ -6,8 +9,6 @@
 (require 'package)
 (add-to-list 'package-archives
              '("marmalade" . "http://marmalade-repo.org/packages/") t)
-(add-to-list 'package-archives
-             '("tromey" . "http://tromey.com/elpa/") t)
 (add-to-list 'package-archives
              '("melpa" . "http://melpa.milkbox.net/packages/") t)
 
@@ -135,6 +136,10 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 
+;; Find-file-in-repository
+(load "find-file-in-repository.el")
+
+(load "comments.el")
 
 ;;Used for block commenting
 (defun comment-sexp ()
@@ -147,7 +152,8 @@
 
 ;; Extra keybindings
 (global-set-key (kbd "<C-tab>") 'other-window)
-(global-set-key (kbd "C-x C-;") 'comment-sexp)
+(global-set-key (kbd "C-x C-;") 'comment-or-uncomment-sexp)
+(global-set-key (kbd "C-x f") 'find-file-in-repository) ;Find-file-in-repository
 
 
 ;; Extra mode bindings
@@ -156,3 +162,22 @@
 ;;Slime startup
 (if (and (file-exists-p "~/.emacs.d/dot.emacs") (file-exists-p "/usr/bin/sbcl"))
     (load "~/.emacs.d/dot.emacs"))
+
+
+;;Less is css-mode
+(add-to-list 'auto-mode-alist '("\\.less\\'" . css-mode))
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(coffee-tab-width 2)
+ '(package-selected-packages
+   (quote
+    (ido-hacks tagedit smex rainbow-delimiters projectile paredit magit exec-path-from-shell company clojure-mode-extra-font-locking cider))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
